@@ -1,0 +1,4 @@
+mp_dotrange FOE DOT 25.000 COLOR 4.0 RANGE 4.0 TYPE 2.0 ID 1.0 NAME 0.1
+mp_dotrange FRIENDLY DOT 25.000 COLOR 4.0 RANGE 4.0 TYPE 2.0 ID 1.0 NAME 0.1
+
+timeout 60000 file icons.rcu

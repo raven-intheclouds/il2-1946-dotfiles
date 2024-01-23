@@ -1,0 +1,9 @@
+@set fast off
+@set echo on
+@set alias on
+@set history 20
+
+@alias a alias
+@a h history
+@a s show
+@file icons.rcu
